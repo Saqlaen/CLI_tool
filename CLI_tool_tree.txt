@@ -1,0 +1,24 @@
+--------------------
+FILE's
+--------------------
+└──CLI_tool
+|	└──.git
+|	|--.gitignore
+|	|--CLI_tool_tree.txt
+|	└──Design
+|	└──Documentation
+|	|	|--CLI.md
+|	|--LICENSE
+|	└──SourceCode
+|	|	|--display.Tree.js
+|	|	|--index.js
+|	|	|--moveFiles.js
+|	└──node_modules
+|	|--package-lock.json
+|	|--package.json
+|	|--test.js
+Extensions -> 
+Extensions -> .txt
+Extensions -> .md
+Extensions -> .js
+Extensions -> .json
