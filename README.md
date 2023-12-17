@@ -6,10 +6,8 @@ npm version --> `10.2.4`
 
 ## how to install
 
-``` node.js
-navigate to the folder CLI_tool
-ex: /mnt/d/CLI [on windows it might look different ]
-```
+`navigate to the folder CLI_tool
+ex: [navigate to your folder]/CLI_tool [on windows it might look different ]`
 
 now type the following commands this will download node_module's and other dependencie's and install your package to global
 ```bash
