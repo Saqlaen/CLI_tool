@@ -1,4 +1,4 @@
-name: cli tool CI
+name: cli tools CI -> pipeline
 on: 
   push:
     branches: [ main ]
@@ -19,3 +19,4 @@ jobs:
       - run: npm install -g
       - run: file-orgy help
       - run: file-orgy tree . -d
+      - run: file-orgy tree .
