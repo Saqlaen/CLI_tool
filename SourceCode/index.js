@@ -53,7 +53,7 @@ switch (command) {
     break;
 
   case "help":
-    await callFiglet("Help  is  here !!!!");
+    await callFiglet("Help  is  here !!!!", chalk.bold.rgb(23, 255, 15) );
     const info = chalk.bold.greenBright
     console.log(
       info(
@@ -64,6 +64,6 @@ switch (command) {
 
   default:
     await callFiglet('Type  the  following  you  dumb fuckk ')
-    console.log( chalk.bold.redBright("├──file-orgy help") );
+    console.log( chalk.bold.redBright("file-orgy help") );
     break;
 }
